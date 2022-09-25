@@ -17,6 +17,7 @@
 		android:id="@+id/success_image"
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
+
 		android:layout_marginBottom="8dp"
 		android:src="@drawable/ic_succesfull_logo"
 		app:layout_constraintBottom_toTopOf="@+id/txt_success"
